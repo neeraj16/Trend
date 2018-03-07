@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trending</string>
+
+    <string name="title_1">\"Mahatma Gandhi\"</string>
+    <string name="title_2">\"Mahatma Gandhi\"</string>
+    <string name="title_3">\"Mahatma Gandhi\"</string>
+    <string name="title_4">\"Mahatma Gandhi\"</string>
+
+    <string name="text_1">\'I hated every minute of training, but I said, Don\'t quit. Suffer now and live the rest of your life as a champion.\'</string>
+
+</resources>
