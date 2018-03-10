@@ -19,6 +19,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".ui.FamousQuote" />
+        <activity android:name=".DummyUploadQuote" />
     </application>
 
 </manifest>
